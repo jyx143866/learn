@@ -2,6 +2,12 @@
  * @Author: jyx
  * @Date: 2024-10-24 07:57:31
  * @LastEditors: jyx
+ * @Description:
+ */
+/***
+ * @Author: jyx
+ * @Date: 2024-10-24 07:57:31
+ * @LastEditors: jyx
  * @Description:Leetcode 242.有效的字母异位
  */
 /*给定两个字符串 s 和 t ，编写一个函数
@@ -21,5 +27,5 @@ int main()
     string str2;
     cin >> str1 >> str2;
     vector<int> v(26, 0);
-    return 0;
+    for (int i =)
 }
